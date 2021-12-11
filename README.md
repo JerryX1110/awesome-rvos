@@ -1,4 +1,4 @@
-# awesome-rvos
+# Awesome-rvos
 Welcome to stars and ontribute!
 
 ## Work related to Referring Video Object Segmentation (RVOS)
