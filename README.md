@@ -2,9 +2,10 @@
 Welcome to stars and contribute!
 
 ## Introduction
-**Referring video object segmentation** aims at **segmenting an object in video with language expressions**. 
+
 ![image](https://user-images.githubusercontent.com/65257938/145671552-f3d3dad7-77e4-4f12-98de-016cc1184976.png)
 
+**Referring video object segmentation** aims at **segmenting an object in video with language expressions**. 
 
 Unlike the previous video object segmentation, the task exploits a different type of supervision, language expressions, to identify and segment an object referred by the given language expressions in a video. A detailed explanation of the new task can be found in the following paper.
 
