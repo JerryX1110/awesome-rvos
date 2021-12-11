@@ -1,6 +1,11 @@
 # Awesome-rvos
 Welcome to stars and contribute!
 
+## Introduction
+**Referring video object segmentation** aims at segmenting an object in video with language expressions. Unlike the previous video object segmentation, the task exploits a different type of supervision, language expressions, to identify and segment an object referred by the given language expressions in a video. A detailed explanation of the new task can be found in the following paper.
+
+Seonguk Seo, Joon-Young Lee, Bohyung Han, “URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark”, European Conference on Computer Vision (ECCV), 2020:<https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf>
+
 ## Work related to Referring Video Object Segmentation (RVOS)
 
 1.**MTTR**:<https://github.com/mttr2021/MTTR>
