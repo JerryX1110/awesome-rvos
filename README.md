@@ -1,4 +1,4 @@
-# Awesome-Refering-Video-Object-Segmentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Referring-Video-Object-Segmentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 ```diff
