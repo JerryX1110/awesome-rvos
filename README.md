@@ -1,5 +1,12 @@
-# Awesome-rvos
-Welcome to stars and contribute!
+# Awesome-Refering-Video-Object-Segmentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+
+```diff
+- Recent papers (from 2021) 
+- welcome to add if any information misses. 😎
+```
+
+---
 
 ## Introduction
 
