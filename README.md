@@ -18,7 +18,7 @@ Unlike the previous video object segmentation, the task exploits a different typ
 
 Seonguk Seo, Joon-Young Lee, Bohyung Han, “URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark”, European Conference on Computer Vision (ECCV), 2020:<https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf>
 
-## Work related to Referring Video Object Segmentation (RVOS)
+## Impressive Works Related to Referring Video Object Segmentation (RVOS)
 
 1.**MTTR**:<https://github.com/mttr2021/MTTR>
 ![image](https://user-images.githubusercontent.com/65257938/145671132-1a2c014e-6563-4f2e-91bd-cd58ed999a0a.png)
