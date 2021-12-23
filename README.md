@@ -3,7 +3,6 @@
 Welcome to starts ⭐ & comments 💹 & collaboration 😀 !!
 
 ```diff
-- 2021.12.23: Add scripts to prepare ALL the datasets needed automatically!
 - 2021.12.12: Recent papers (from 2021) 
 - welcome to add if any information misses. 😎
 ```
@@ -42,9 +41,11 @@ Cross-modal progressive comprehension for referring segmentation:<https://arxiv.
 ## Benchmark
 [The 3rd Large-scale Video Object Segmentation - Track 3: Referring Video Object Segmentation](https://competitions.codalab.org/competitions/29139#results)
 
-[Download_DATA](https://drive.google.com/drive/folders/1J45ubR8Y24wQ6dzKOTkfpd9GS_F9A2kb)
 
-## Related Datasets
+
+## Datasets
+[Refer-YouTube-VOS-datasets](https://drive.google.com/drive/folders/1J45ubR8Y24wQ6dzKOTkfpd9GS_F9A2kb)
+
 * **YouTube-VOS**:
 ```shell
 wget https://github.com/JerryX1110/awesome-rvos/blob/main/down_YTVOS_w_refer.py
@@ -53,7 +54,7 @@ python down_YTVOS_w_refer.py
 
 Folder structure:
 ```latex
-data/
+${current_path}/
 └── refer_youtube_vos/ 
     ├── train/
     │   ├── JPEGImages/
@@ -121,11 +122,9 @@ cd ..
 ```
 
 
-
-
 Folder structure:
 ```latex
-data/
+${current_path}/
 └── a2d_sentences/ 
     ├── Release/
     │   ├── videoset.csv  (videos metadata file)
@@ -186,7 +185,7 @@ cd ..
 
 Folder structure:
 ```latex
-data/
+${current_path}/
 └── jhmdb_sentences/ 
     ├── Rename_Images/  (frame images)
     │   └── */ (action dirs)
@@ -206,6 +205,3 @@ pages = {3192-3199},
 year = {2013}
 }
 ```
-
-## Other related datasets
-[Awesome Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
