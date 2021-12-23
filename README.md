@@ -1,8 +1,10 @@
 # Awesome-Referring-Video-Object-Segmentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+Welcome to starts ⭐ & comments 💹 & collaboration 😀 !!
 
 ```diff
-- Recent papers (from 2021) 
+- 2021.12.23: Add scripts to prepare ALL the datasets needed automatically!
+- 2021.12.12: Recent papers (from 2021) 
 - welcome to add if any information misses. 😎
 ```
 
