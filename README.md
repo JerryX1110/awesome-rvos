@@ -75,7 +75,6 @@ cd a2d_sentences
 wget https://web.eecs.umich.edu/~jjcorso/bigshare/A2D_main_1_0.tar.bz
 tar jxvf A2D_main_1_0.tar.bz
 mkdir text_annotations
-cd ..
 
 cd text_annotations
 wget https://kgavrilyuk.github.io/actor_action/a2d_annotation.txt
@@ -83,7 +82,13 @@ wget https://kgavrilyuk.github.io/actor_action/a2d_missed_videos.txt
 wget https://drive.google.com/file/d/14DNamenZsvZnb32NFBNkZCGene5D2oaE/view -o a2d_annotation_with_instances.zip 
 unzip a2d_annotation_with_instances.zip 
 cd ..
+
+cd ..
+
 ```
+**bug**:a2d_annotation_with_instances.zip
+
+
 
 Folder structure:
 ```latex
@@ -140,8 +145,9 @@ cd jhmdb_sentences
 wget http://files.is.tue.mpg.de/jhmdb/Rename_Images.tar.gz
 wget https://kgavrilyuk.github.io/actor_action/jhmdb_annotation.txt
 wget http://files.is.tue.mpg.de/jhmdb/puppet_mask.zip
-unzip Rename_Images.zip
+tar -xzvf  Rename_Images.tar.gz
 unzip puppet_mask.zip
+cd ..
 ```
 
 Folder structure:
