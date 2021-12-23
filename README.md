@@ -79,14 +79,16 @@ mkdir text_annotations
 cd text_annotations
 wget https://kgavrilyuk.github.io/actor_action/a2d_annotation.txt
 wget https://kgavrilyuk.github.io/actor_action/a2d_missed_videos.txt
-wget https://drive.google.com/file/d/14DNamenZsvZnb32NFBNkZCGene5D2oaE/view -o a2d_annotation_with_instances.zip 
-unzip a2d_annotation_with_instances.zip 
+wget https://github.com/JerryX1110/awesome-rvos/blob/main/down_a2d_annotation_with_instances.py
+python down_a2d_annotation_with_instances.py
+unzip a2d_annotation_with_instances.zip
+#rm a2d_annotation_with_instances.zip
 cd ..
 
 cd ..
 
 ```
-**bug**:a2d_annotation_with_instances.zip
+
 
 
 
