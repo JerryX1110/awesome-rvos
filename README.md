@@ -39,3 +39,125 @@ Cross-modal progressive comprehension for referring segmentation:<https://arxiv.
 
 ## Benchmark
 [The 3rd Large-scale Video Object Segmentation - Track 3: Referring Video Object Segmentation](https://competitions.codalab.org/competitions/29139#results)
+
+[Download_DATA](https://drive.google.com/drive/folders/1J45ubR8Y24wQ6dzKOTkfpd9GS_F9A2kb)
+
+## Related Datasets
+
+* **A2D-Sentences**:REPO:<https://web.eecs.umich.edu/~jjcorso/r/a2d/>
+paper:<https://arxiv.org/abs/1803.07485>
+![image](https://user-images.githubusercontent.com/65257938/147182456-d4f25e64-a8a0-4e18-9d56-8bbdacae6f80.png)
+
+```latex
+@misc{gavrilyuk2018actor,
+      title={Actor and Action Video Segmentation from a Sentence}, 
+      author={Kirill Gavrilyuk and Amir Ghodrati and Zhenyang Li and Cees G. M. Snoek},
+      year={2018},
+      eprint={1803.07485},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+License: The dataset may not be republished in any form without the written consent of the authors.
+
+[README](https://web.eecs.umich.edu/~jjcorso/r/a2d/files/README)
+Dataset and Annotation (version 1.0, 1.9GB, [tar.bz](https://web.eecs.umich.edu/~jjcorso/bigshare/A2D_main_1_0.tar.bz))
+Evaluation Toolkit (version 1.0, [tar.bz](https://web.eecs.umich.edu/~jjcorso/bigshare/A2D_eval_1_0.tar.bz))
+
+```python
+mkdir a2d_sentences
+cd a2d_sentences
+wget https://web.eecs.umich.edu/~jjcorso/bigshare/A2D_main_1_0.tar.bz
+tar jxvf A2D_main_1_0.tar.bz
+mkdir text_annotations
+cd ..
+
+cd text_annotations
+wget https://kgavrilyuk.github.io/actor_action/a2d_annotation.txt
+wget https://kgavrilyuk.github.io/actor_action/a2d_missed_videos.txt
+wget https://drive.google.com/file/d/14DNamenZsvZnb32NFBNkZCGene5D2oaE/view -o a2d_annotation_with_instances.zip 
+unzip a2d_annotation_with_instances.zip 
+cd ..
+```
+
+Folder structure:
+```latex
+data/
+└── a2d_sentences/ 
+    ├── Release/
+    │   ├── videoset.csv  (videos metadata file)
+    │   └── CLIPS320/
+    │       └── *.mp4     (video files)
+    └── text_annotations/
+        ├── a2d_annotation.txt  (actual text annotations)
+        ├── a2d_missed_videos.txt
+        └── a2d_annotation_with_instances/ 
+            └── */ (video folders)
+                └── *.h5 (annotations files) 
+```
+
+Citation:
+```latex
+@inproceedings{YaXuCaCVPR2017,
+  author = {Yan, Y. and Xu, C. and Cai, D. and {\bf Corso}, {\bf J. J.}},
+  booktitle = {{Proceedings of IEEE Conference on Computer Vision and Pattern Recognition}},
+  tags = {computer vision, activity recognition, video understanding, semantic segmentation},
+  title = {Weakly Supervised Actor-Action Segmentation via Robust Multi-Task Ranking},
+  year = {2017}
+}
+@inproceedings{XuCoCVPR2016,
+  author = {Xu, C. and {\bf Corso}, {\bf J. J.}},
+  booktitle = {{Proceedings of IEEE Conference on Computer Vision and Pattern Recognition}},
+  datadownload = {http://web.eecs.umich.edu/~jjcorso/r/a2d},
+  tags = {computer vision, activity recognition, video understanding, semantic segmentation},
+  title = {Actor-Action Semantic Segmentation with Grouping-Process Models},
+  year = {2016}
+}
+@inproceedings{XuHsXiCVPR2015,
+  author = {Xu, C. and Hsieh, S.-H. and Xiong, C. and {\bf Corso}, {\bf J. J.}},
+  booktitle = {{Proceedings of IEEE Conference on Computer Vision and Pattern Recognition}},
+  datadownload = {http://web.eecs.umich.edu/~jjcorso/r/a2d},
+  poster = {http://web.eecs.umich.edu/~jjcorso/pubs/xu_corso_CVPR2015_A2D_poster.pdf},
+  tags = {computer vision, activity recognition, video understanding, semantic segmentation},
+  title = {Can Humans Fly? {Action} Understanding with Multiple Classes of Actors},
+  url = {http://web.eecs.umich.edu/~jjcorso/pubs/xu_corso_CVPR2015_A2D.pdf},
+  year = {2015}
+}
+```
+
+* **J-HMDB**:<http://jhmdb.is.tue.mpg.de/>
+![image](https://user-images.githubusercontent.com/65257938/147182575-9ee87a7d-c78d-4ce8-90fe-1109204643da.png)
+
+downloading_script
+```python
+mkdir jhmdb_sentences
+cd jhmdb_sentences
+wget http://files.is.tue.mpg.de/jhmdb/Rename_Images.tar.gz
+wget https://kgavrilyuk.github.io/actor_action/jhmdb_annotation.txt
+wget http://files.is.tue.mpg.de/jhmdb/puppet_mask.zip
+unzip Rename_Images.zip
+unzip puppet_mask.zip
+```
+
+Folder structure:
+```latex
+data/
+└── jhmdb_sentences/ 
+    ├── Rename_Images/  (frame images)
+    │   └── */ (action dirs)
+    ├── puppet_mask/  (mask annotations)
+    │   └── */ (action dirs)
+    └── jhmdb_annotation.txt  (text annotations)
+```
+
+Citation:
+```latex
+@inproceedings{Jhuang:ICCV:2013,
+title = {Towards understanding action recognition},
+author = {H. Jhuang and J. Gall and S. Zuffi and C. Schmid and M. J. Black},
+booktitle = {International Conf. on Computer Vision (ICCV)},
+month = Dec,
+pages = {3192-3199},
+year = {2013}
+}
+```
