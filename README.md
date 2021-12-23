@@ -44,10 +44,15 @@ Cross-modal progressive comprehension for referring segmentation:<https://arxiv.
 
 ## Related Datasets
 
-* **A2D-Sentences**:REPO:<https://web.eecs.umich.edu/~jjcorso/r/a2d/>
+* **A2D-Sentences**:
+
+REPO:<https://web.eecs.umich.edu/~jjcorso/r/a2d/>
+
 paper:<https://arxiv.org/abs/1803.07485>
+
 ![image](https://user-images.githubusercontent.com/65257938/147182456-d4f25e64-a8a0-4e18-9d56-8bbdacae6f80.png)
 
+Citation:
 ```latex
 @misc{gavrilyuk2018actor,
       title={Actor and Action Video Segmentation from a Sentence}, 
