@@ -206,3 +206,40 @@ pages = {3192-3199},
 year = {2013}
 }
 ```
+
+## Other related datasets
+### Image Grounding Datasets
+
+1. **Flickr30k**: Plummer, Bryan A., et al. **Flickr30k entities: Collecting region-to-phrase correspondences for richer image-to-sentence models.** Proceedings of the IEEE international conference on computer vision. 2015. [[Paper]](https://arxiv.org/abs/1505.04870) [[Code]](https://github.com/BryanPlummer/pl-clc) [[Website]](http://web.engr.illinois.edu/~bplumme2/Flickr30kEntities/)
+
+1. **RefClef**: Kazemzadeh, Sahar, et al. **Referitgame: Referring to objects in photographs of natural scenes.** Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014. [[Paper]](http://www.aclweb.org/anthology/D14-1086) [[Website]](http://tamaraberg.com/referitgame/)
+
+1. **RefCOCOg**: Mao, Junhua, et al. **Generation and comprehension of unambiguous object descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [[Paper]](https://arxiv.org/pdf/1511.02283.pdf) [[Code]](https://github.com/mjhucla/Google_Refexp_toolbox)
+
+1. **RefCOCO and RefCOCO+**: 1. Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [[Paper]](https://arxiv.org/pdf/1608.00272.pdf)[[Code]](https://github.com/lichengunc/refer)
+
+1. **Visual Genome**: Krishna, Ranjay, et al. **Visual genome: Connecting language and vision using crowdsourced dense image annotations.** International Journal of Computer Vision 123.1 (2017): 32-73. [[Paper]](https://arxiv.org/pdf/1602.07332.pdf) [[Website]](https://visualgenome.org/)
+
+Instructions on RefClef, RefCOCO, RefCOCO+, RefCOCOg is nicely summarized here: https://github.com/lichengunc/refer
+
+### Video Datasets
+
+1. **TaCoS**: Regneri, Michaela, et al. **Grounding action descriptions in videos.** Transactions of the Association of Computational Linguistics 1 (2013): 25-36. [[Paper]](http://aclweb.org/anthology/Q13-1003) [[Website]](http://www.coli.uni-saarland.de/projects/smile/page.php?id=tacos)
+
+1. **Charades**: Sigurdsson, Gunnar A., et al. **Hollywood in homes: Crowdsourcing data collection for activity understanding.** European Conference on Computer Vision. Springer, Cham, 2016. [[Paper]](https://arxiv.org/pdf/1604.01753.pdf) [[Website]](https://allenai.org/plato/charades/)
+
+1. **Charades-STA**: Gao, Jiyang, et al. **Tall: Temporal activity localization via language query.** arXiv preprint arXiv:1705.02101 (2017).[[Paper]](https://arxiv.org/pdf/1705.02101.pdf) [[Code]](https://github.com/jiyanggao/TALL)
+
+1. **Distinct Describable Moments (DiDeMo)**: Hendricks, Lisa Anne, et al. **Localizing moments in video with natural language.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: MCN* [[Paper]](https://arxiv.org/pdf/1708.01641.pdf) [[Code]](https://github.com/LisaAnne/LocalizingMoments) [[Website]](https://people.eecs.berkeley.edu/~lisa_anne/didemo.html)
+
+1. **ActivityNet Captions**: Krishna, Ranjay, et al. **Dense-captioning events in videos.** Proceedings of the IEEE International Conference on Computer Vision. 2017. [[Paper]](https://arxiv.org/pdf/1705.00754.pdf) [[Website]](https://cs.stanford.edu/people/ranjaykrishna/densevid/)
+
+1. **Charades-Ego**:  [[Website]](https://allenai.org/plato/charades/)
+	- Sigurdsson, Gunnar, et al. **Actor and Observer: Joint Modeling of First and Third-Person Videos.** CVPR-IEEE Conference on Computer Vision & Pattern Recognition. 2018. [[Paper]](https://arxiv.org/pdf/1804.09627.pdf) [[Code]](https://github.com/gsig/actor-observer)
+    - Sigurdsson, Gunnar A., et al. "Charades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos." arXiv preprint arXiv:1804.09626 (2018). [[Paper]](https://arxiv.org/pdf/1804.09626.pdf) [[Code]](https://github.com/gsig/charades-algorithms)
+    
+1. **TEMPO**: Hendricks, Lisa Anne, et al. **Localizing Moments in Video with Temporal Language.** arXiv preprint arXiv:1809.01337 (2018). [[Paper]](https://arxiv.org/pdf/1809.01337.pdf) [[Code]](https://github.com/LisaAnne/TemporalLanguageRelease) [[Website]](https://people.eecs.berkeley.edu/~lisa_anne/tempo.html)
+
+
+## Credit
+[Awesome Visual Grounding](https://github.com/qy-feng/awesome-visual-grounding)
