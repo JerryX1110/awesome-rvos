@@ -49,6 +49,27 @@ wget https://github.com/JerryX1110/awesome-rvos/blob/main/down_YTVOS_w_refer.py
 python down_YTVOS_w_refer.py
 ```
 
+Folder structure:
+```latex
+data/
+└── refer_youtube_vos/ 
+    ├── train/
+    │   ├── JPEGImages/
+    │   │   └── */ (video folders)
+    │   │       └── *.jpg (frame image files) 
+    │   └── Annotations/
+    │       └── */ (video folders)
+    │           └── *.png (mask annotation files) 
+    ├── valid/
+    │   └── JPEGImages/
+    │       └── */ (video folders)
+    │           └── *.jpg (frame image files) 
+    └── meta_expressions/
+        ├── train/
+        │   └── meta_expressions.json  (text annotations)
+        └── valid/
+            └── meta_expressions.json  (text annotations)
+```
 
 
 
