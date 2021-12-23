@@ -1,6 +1,6 @@
 # Awesome-Referring-Video-Object-Segmentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Welcome to starts ⭐ & comments 💹 & collaboration 😀 !!
+Welcome to starts ⭐ & comments 💹 & sharing 😀 !!
 
 ```diff
 - 2021.12.12: Recent papers (from 2021) 
