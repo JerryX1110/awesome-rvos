@@ -39,6 +39,12 @@ Seonguk Seo, Joon-Young Lee, Bohyung Han, “URVOS: Unified Referring Video Obje
 Cross-modal progressive comprehension for referring segmentation:<https://arxiv.org/abs/2105.07175>
 ![image](https://user-images.githubusercontent.com/65257938/145671302-40924570-9cd2-4ffa-84d3-5bd11b95358d.png)
 
+* **HINet [BMVC 2021]**:<https://www.bmvc2021-virtualconference.com/assets/papers/0386.pdf>
+![image](https://user-images.githubusercontent.com/65257938/151321471-05d4be4d-1dde-4ea2-a68c-ce3bf19552f8.png)
+![image](https://user-images.githubusercontent.com/65257938/151321516-d7e8649a-6eba-460a-af12-f3c6e54e1271.png)
+
+
+
 * **URVOS [ECCV 2020]**:<https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf>
 ![image](https://user-images.githubusercontent.com/65257938/145671358-229d8e56-8d40-4cc1-bb4f-58bbff38a452.png)
 
