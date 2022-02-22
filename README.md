@@ -29,6 +29,11 @@ Seonguk Seo, Joon-Young Lee, Bohyung Han, “URVOS: Unified Referring Video Obje
 * **MTTR**:<https://github.com/mttr2021/MTTR>
 ![image](https://user-images.githubusercontent.com/65257938/145671132-1a2c014e-6563-4f2e-91bd-cd58ed999a0a.png)
 
+* **YOFO [AAAI 2022]**:<https://www.aaai.org/AAAI22Papers/AAAI-1100.LiD.pdf>
+* You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation
+![image](https://user-images.githubusercontent.com/65257938/155121320-338d9b02-edac-4288-ae52-bf9e6a7f90d7.png)
+![image](https://user-images.githubusercontent.com/65257938/155121513-37b6edd2-bd0a-45fc-8ce7-8d5beefc1bf6.png)
+
 
 * **PMINet [CVPRW 2021]**:<https://youtube-vos.org/assets/challenge/2021/reports/RVOS_2_Ding.pdf>
 ![image](https://user-images.githubusercontent.com/65257938/145671186-0515bf89-1d71-4155-b3f9-27d6903e3f31.png)
