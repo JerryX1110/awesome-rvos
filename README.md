@@ -26,7 +26,7 @@ Seonguk Seo, Joon-Young Lee, Bohyung Han, “URVOS: Unified Referring Video Obje
 ![image](https://user-images.githubusercontent.com/65257938/148010352-9f642f2b-eca4-46a8-b131-98847f0c5237.png)
 
 
-* **MTTR**:<https://github.com/mttr2021/MTTR>
+* **MTTR [CVPR 2022]**:<https://github.com/mttr2021/MTTR>
 ![image](https://user-images.githubusercontent.com/65257938/145671132-1a2c014e-6563-4f2e-91bd-cd58ed999a0a.png)
 
 * **YOFO [AAAI 2022]**:<https://www.aaai.org/AAAI22Papers/AAAI-1100.LiD.pdf>
