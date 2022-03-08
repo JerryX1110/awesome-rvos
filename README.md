@@ -34,6 +34,9 @@ Seonguk Seo, Joon-Young Lee, Bohyung Han, “URVOS: Unified Referring Video Obje
 ![image](https://user-images.githubusercontent.com/65257938/155121320-338d9b02-edac-4288-ae52-bf9e6a7f90d7.png)
 ![image](https://user-images.githubusercontent.com/65257938/155121513-37b6edd2-bd0a-45fc-8ce7-8d5beefc1bf6.png)
 
+* **ClawCraneNet [ArXiv]**:<https://arxiv.org/pdf/2103.10702.pdf>
+![image](https://user-images.githubusercontent.com/65257938/157187444-19e7dfa1-bb89-4f31-8965-5e59d6b78918.png)
+![image](https://user-images.githubusercontent.com/65257938/157188239-2a9d25f6-ae1b-4727-9250-060414dab17d.png)
 
 * **PMINet [CVPRW 2021]**:<https://youtube-vos.org/assets/challenge/2021/reports/RVOS_2_Ding.pdf>
 ![image](https://user-images.githubusercontent.com/65257938/145671186-0515bf89-1d71-4155-b3f9-27d6903e3f31.png)
