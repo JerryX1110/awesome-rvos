@@ -21,7 +21,6 @@ Seonguk Seo, Joon-Young Lee, Bohyung Han, “URVOS: Unified Referring Video Obje
 
 ## Impressive Works Related to Referring Video Object Segmentation (RVOS)
 
-*
 
 * **Local-Global Context Aware Transformer for Language-Guided Video Segmentation [ArXiv 2022]**:<https://github.com/leonnnop/Locater>
 
