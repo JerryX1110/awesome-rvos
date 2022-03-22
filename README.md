@@ -17,9 +17,9 @@ Welcome to starts ⭐ & comments 💹 & sharing 😀 !!
 
 Unlike the previous video object segmentation, the task exploits a different type of supervision, language expressions, **to identify and segment an object referred by the given language expressions in a video**. A detailed explanation of the new task can be found in the following paper.
 
-''' Latex
+```Latex
 Seonguk Seo, Joon-Young Lee, Bohyung Han, “URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark”, European Conference on Computer Vision (ECCV), 2020:<https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf>
-'''
+```
 
 ## Impressive Works Related to Referring Video Object Segmentation (RVOS)
 
