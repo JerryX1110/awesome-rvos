@@ -79,6 +79,12 @@ Cross-modal progressive comprehension for referring segmentation:<https://arxiv.
 * **URVOS [ECCV 2020]**:<https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf>
 ![image](https://user-images.githubusercontent.com/65257938/145671358-229d8e56-8d40-4cc1-bb4f-58bbff38a452.png)
 
+## Impressive Works Related to Referring Image Segmentation (Rerfer-image-segmentation)
+* **LAVT: Language-Aware Vision Transformer for Referring Image Segmentation**:<https://arxiv.org/pdf/2112.02244.pdf>
+![image](https://user-images.githubusercontent.com/65257938/162582078-46912f60-875b-4c0c-9c81-1643465b6b18.png)
+![image](https://user-images.githubusercontent.com/65257938/162582091-44609242-de0b-4526-bad6-1b036902f9c9.png)
+![image](https://user-images.githubusercontent.com/65257938/162582107-0fcca4fa-b3a6-4e41-8783-41cd6a422183.png)
+
 
 ## Benchmark
 [The 3rd Large-scale Video Object Segmentation - Track 3: Referring Video Object Segmentation](https://competitions.codalab.org/competitions/29139#results)
