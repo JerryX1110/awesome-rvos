@@ -23,6 +23,10 @@ Unlike the previous video object segmentation, the task exploits a different typ
 
 ## Impressive Works Related to Referring Video Object Segmentation (RVOS)
 
+**Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation [CVPR 2022]**:<https://arxiv.org/pdf/2204.02547.pdf>
+![image](https://user-images.githubusercontent.com/65257938/162581724-48d9afe6-71a4-4987-a0e2-9bb818068608.png)
+
+
 * **Deeply Interleaved Two-Stream Encoder for Referring Video Segmentation [ArXiv 2022]**:<https://arxiv.org/pdf/2203.15969.pdf>
 ![image](https://user-images.githubusercontent.com/65257938/161317831-4b11f548-d0bc-48cf-92cd-3010a374abdf.png)
 
