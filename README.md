@@ -85,6 +85,12 @@ Cross-modal progressive comprehension for referring segmentation:<https://arxiv.
 ![image](https://user-images.githubusercontent.com/65257938/162582091-44609242-de0b-4526-bad6-1b036902f9c9.png)
 ![image](https://user-images.githubusercontent.com/65257938/162582107-0fcca4fa-b3a6-4e41-8783-41cd6a422183.png)
 
+* **SeqTR: A Simple yet Universal Network for Visual Grounding**:<https://arxiv.org/pdf/2203.16265.pdf>
+
+![image](https://user-images.githubusercontent.com/65257938/166140318-56247577-b12a-4a5f-bcb7-1391dc6e1fce.png)
+
+![image](https://user-images.githubusercontent.com/65257938/166140328-28ee3209-51c1-4eb8-99b1-3fef9af05d7f.png)
+
 
 ## Benchmark
 [The 3rd Large-scale Video Object Segmentation - Track 3: Referring Video Object Segmentation](https://competitions.codalab.org/competitions/29139#results)
