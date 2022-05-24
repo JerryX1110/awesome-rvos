@@ -23,6 +23,12 @@ Unlike the previous video object segmentation, the task exploits a different typ
 
 ## Impressive Works Related to Referring Video Object Segmentation (RVOS)
 
+* **Multi-Level Representation Learning with Semantic Alignment for Referring Video Object Segmentation [CVPR 2022]**
+
+![image](https://user-images.githubusercontent.com/65257938/170071420-cc703191-ff41-4c8b-982c-4416d5456d46.png)
+
+
+
 **Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation [CVPR 2022]**:<https://arxiv.org/pdf/2204.02547.pdf>
 ![image](https://user-images.githubusercontent.com/65257938/162581724-48d9afe6-71a4-4987-a0e2-9bb818068608.png)
 
