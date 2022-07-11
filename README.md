@@ -23,6 +23,11 @@ Unlike the previous video object segmentation, the task exploits a different typ
 
 ## Impressive Works Related to Referring Video Object Segmentation (RVOS)
 
+* **R^2VOS: Robust Referring Video Object Segmentation via Relational Multimodal Cycle Consistency**[ArXiv 2022]:<https://arxiv.org/abs/2207.01203>
+<img width="1119" alt="截屏2022-07-11 11 45 10" src="https://user-images.githubusercontent.com/65257938/178184821-c894b79b-a919-4ff7-b236-59ba262bea91.png">
+<img width="1107" alt="截屏2022-07-11 11 45 50" src="https://user-images.githubusercontent.com/65257938/178184839-57cb846e-0a72-4a1f-98e9-819622484c74.png">
+
+
 * **Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation [CVPR 2022]**:<https://arxiv.org/pdf/2206.03789.pdf>
 
 ![image](https://user-images.githubusercontent.com/65257938/172786658-559618b5-0163-454b-a3d5-086cb2dc1030.png)
