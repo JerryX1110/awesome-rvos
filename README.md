@@ -28,6 +28,11 @@ Unlike the previous video object segmentation, the task exploits a different typ
 <img width="1107" alt="截屏2022-07-11 11 45 50" src="https://user-images.githubusercontent.com/65257938/178184839-57cb846e-0a72-4a1f-98e9-819622484c74.png">
 
 
+* **Multi-Attention Network for Compressed Video Referring Object Segmentation**[ACM MM 2022]:<https://arxiv.org/pdf/2207.12622.pdf>
+![image](https://user-images.githubusercontent.com/65257938/181689600-61961aa6-98d7-4234-8bc7-35935a13223c.png)
+
+
+
 * **Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation [CVPR 2022]**:<https://arxiv.org/pdf/2206.03789.pdf>
 
 ![image](https://user-images.githubusercontent.com/65257938/172786658-559618b5-0163-454b-a3d5-086cb2dc1030.png)
