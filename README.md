@@ -20,13 +20,14 @@ Unlike the previous video object segmentation, the task exploits a different typ
 
 * Seonguk Seo, Joon-Young Lee, Bohyung Han, “URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark”, [ECCV20]:<https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf>
 
-## Impressive Works Related to Referring Multi-Object Tracking (RMOT)
-* **Referring Multi-Object Tracking**[CVPR 23]:<https://arxiv.org/abs/2303.03366>
 
-![image](https://user-images.githubusercontent.com/65257938/224093075-c48774c0-a17d-4e51-8821-7b74889f1c90.png)
 
 
 ## Impressive Works Related to Referring Video Object Segmentation (RVOS)
+* **Referring Video Segmentation with (Optional) Arbitrary Modality as Query for Fusion [ArXiV](https://arxiv.org/pdf/2207.05580.pdf)**
+
+![image](https://github.com/JerryX1110/awesome-rvos/assets/65257938/9ef9a74d-ade9-4ed4-86ac-0b7a830402f0)
+
 
 * **VLT: Vision-Language Transformer and Query Generation for Referring Segmentation [PAMI23]**
 ![VLT_TPAMI](https://user-images.githubusercontent.com/65257938/224544601-94279d80-bcbd-483d-8dce-eb50d4a936e5.png)
@@ -121,6 +122,13 @@ Cross-modal progressive comprehension for referring segmentation:<https://arxiv.
 ![image](https://user-images.githubusercontent.com/65257938/166140318-56247577-b12a-4a5f-bcb7-1391dc6e1fce.png)
 
 ![image](https://user-images.githubusercontent.com/65257938/166140328-28ee3209-51c1-4eb8-99b1-3fef9af05d7f.png)
+
+
+
+## Impressive Works Related to Referring Multi-Object Tracking (RMOT)
+* **Referring Multi-Object Tracking**[CVPR 23]:<https://arxiv.org/abs/2303.03366>
+
+![image](https://user-images.githubusercontent.com/65257938/224093075-c48774c0-a17d-4e51-8821-7b74889f1c90.png)
 
 
 ## Benchmark
