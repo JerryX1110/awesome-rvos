@@ -24,6 +24,10 @@ Unlike the previous video object segmentation, the task exploits a different typ
 
 
 ## Impressive Works Related to Referring Video Object Segmentation (RVOS)
+* **R^2VOS: Robust Referring Video Object Segmentation via Relational Multimodal Cycle Consistency**[ArXiv 2022/23]:<https://arxiv.org/abs/2207.01203> [Repo] (https://github.com/lxa9867/R2VOS)
+<img width="1119" alt="截屏2022-07-11 11 45 10" src="https://user-images.githubusercontent.com/65257938/178184821-c894b79b-a919-4ff7-b236-59ba262bea91.png">
+<img width="1107" alt="截屏2022-07-11 11 45 50" src="https://user-images.githubusercontent.com/65257938/178184839-57cb846e-0a72-4a1f-98e9-819622484c74.png">
+
 * **Referring Video Segmentation with (Optional) Arbitrary Modality as Query for Fusion [ArXiV](https://arxiv.org/pdf/2207.05580.pdf)**
 
 ![image](https://github.com/JerryX1110/awesome-rvos/assets/65257938/9ef9a74d-ade9-4ed4-86ac-0b7a830402f0)
@@ -33,9 +37,7 @@ Unlike the previous video object segmentation, the task exploits a different typ
 ![VLT_TPAMI](https://user-images.githubusercontent.com/65257938/224544601-94279d80-bcbd-483d-8dce-eb50d4a936e5.png)
 
 
-* **R^2VOS: Robust Referring Video Object Segmentation via Relational Multimodal Cycle Consistency**[ArXiv 2022]:<https://arxiv.org/abs/2207.01203>
-<img width="1119" alt="截屏2022-07-11 11 45 10" src="https://user-images.githubusercontent.com/65257938/178184821-c894b79b-a919-4ff7-b236-59ba262bea91.png">
-<img width="1107" alt="截屏2022-07-11 11 45 50" src="https://user-images.githubusercontent.com/65257938/178184839-57cb846e-0a72-4a1f-98e9-819622484c74.png">
+
 
 
 * **Multi-Attention Network for Compressed Video Referring Object Segmentation**[ACM MM 2022]:<https://arxiv.org/pdf/2207.12622.pdf>
