@@ -29,6 +29,15 @@ Unlike the previous video object segmentation, the task exploits a different typ
 <img width="1119" alt="截屏2022-07-11 11 45 10" src="https://user-images.githubusercontent.com/65257938/178184821-c894b79b-a919-4ff7-b236-59ba262bea91.png">
 <img width="1107" alt="截屏2022-07-11 11 45 50" src="https://user-images.githubusercontent.com/65257938/178184839-57cb846e-0a72-4a1f-98e9-819622484c74.png">
 
+* **Spectrum-guided Multi-granularity Referring Video Object Segmentation**[ICCV 2023]:<https://arxiv.org/pdf/2307.13537.pdf>
+
+![Screenshot 2023-07-27 130509](https://github.com/JerryX1110/awesome-rvos/assets/65257938/f433a61b-28a7-4567-bcb4-0c47c56b46a0)
+
+
+* **OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation**[ICCV 2023]:<https://arxiv.org/pdf/2307.09356.pdf>
+
+![Screenshot 2023-07-27 130535](https://github.com/JerryX1110/awesome-rvos/assets/65257938/6514e4c0-8b74-4952-9a1c-3068009c76ba)
+
 
 * **Decoupling Multimodal Transformers for Referring Video Object Segmentation** [TCSVT23](https://ieeexplore.ieee.org/abstract/document/10147907)
 
